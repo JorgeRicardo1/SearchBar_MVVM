@@ -1,0 +1,15 @@
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\obj\Debug\netstandard2.0\SearchBarMVVM.csproj.AssemblyReference.cache
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\obj\Debug\netstandard2.0\SearchBarMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\bin\Debug\netstandard2.0\SearchBarMVVM.deps.json
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\bin\Debug\netstandard2.0\SearchBarMVVM.dll
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\bin\Debug\netstandard2.0\SearchBarMVVM.pdb
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\obj\Debug\netstandard2.0\Views\Buscargrupos.xaml.g.cs
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\obj\Debug\netstandard2.0\SearchBarMVVM.AssemblyInfoInputs.cache
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\obj\Debug\netstandard2.0\SearchBarMVVM.AssemblyInfo.cs
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\obj\Debug\netstandard2.0\SearchBarMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\obj\Debug\netstandard2.0\SearchBarMVVM.dll
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\obj\Debug\netstandard2.0\refint\SearchBarMVVM.dll
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\obj\Debug\netstandard2.0\SearchBarMVVM.pdb
+C:\Users\Auxiliar23\source\repos\SearchBarMVVM\SearchBarMVVM\obj\Debug\netstandard2.0\ref\SearchBarMVVM.dll

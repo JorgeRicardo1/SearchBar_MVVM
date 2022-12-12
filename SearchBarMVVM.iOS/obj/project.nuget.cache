@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "/xlf9UU4KxBZKhh3rMiDeQFrJZxdzV7jZDBvaWzdwqhnnnqV5aLfxZOSwI8cbt73en+6Q/CezUgCk0vv3yEzqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Auxiliar23\\source\\repos\\SearchBarMVVM\\SearchBarMVVM.iOS\\SearchBarMVVM.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Auxiliar23\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Auxiliar23\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.5\\xamarin.communitytoolkit.2.0.5.nupkg.sha512",
+    "C:\\Users\\Auxiliar23\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Auxiliar23\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Xamarin.Forms de 5.0.0.2545 a 5.0.0.2196. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n SearchBarMVVM.iOS -> SearchBarMVVM -> Xamarin.Forms (>= 5.0.0.2545) \r\n SearchBarMVVM.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
